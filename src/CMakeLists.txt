@@ -1,0 +1,4 @@
+PROJECT(socket_project CXX C)
+
+ADD_SUBDIRECTORY(listen)
+ADD_SUBDIRECTORY(test)
